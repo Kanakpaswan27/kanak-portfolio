@@ -126,11 +126,19 @@ Add screenshots here.
 Example:
 
 - Home Page
+- <img width="1549" height="913" alt="23 07 2026_17 44 13_REC" src="https://github.com/user-attachments/assets/0570f3c9-61e1-49eb-ac8b-7fdc8e89c4ce" />
+
 - About Section
+- <img width="1544" height="899" alt="23 07 2026_17 44 37_REC" src="https://github.com/user-attachments/assets/dfcc7538-0d48-4dc7-8883-c8ec1599eaff" />
+
 - Projects
+- <img width="1542" height="897" alt="23 07 2026_17 44 55_REC" src="https://github.com/user-attachments/assets/0766ff3c-8758-4def-92fe-5a6912cc24b6" />
+
 - Skills
+- <img width="1538" height="900" alt="23 07 2026_17 45 28_REC" src="https://github.com/user-attachments/assets/322934a1-878b-4d56-b596-0b39730a7a7f" />
+
 - Contact
-- Mobile View
+- <img width="1538" height="911" alt="23 07 2026_17 45 44_REC" src="https://github.com/user-attachments/assets/f6fdeb79-c93f-48d0-9d20-777c4e354faa" />
 
 ---
 
