@@ -170,7 +170,7 @@ npm run build
 
 # 🌐 Live Demo
 
-**Portfolio Website**
+git clone https://github.com/Kanakpaswan27/kanak-portfolio.git
 
 Add your deployed portfolio URL here.
 
