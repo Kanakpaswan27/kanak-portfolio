@@ -199,12 +199,10 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 🌐 Portfolio
-- 📧 Email
-
-(Add your links here)
+- 💼 LinkedIn - www.linkedin.com/in/kanakpaswan-dev
+- 💻 GitHub - https://github.com/Kanakpaswan27
+- 🌐 Portfolio - https://github.com/Kanakpaswan27/kanak-portfolio
+- 📧 Email - kanakpaswan546@gmail.com
 
 ---
 
